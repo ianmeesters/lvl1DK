@@ -1,0 +1,27 @@
+[worldserver]
+#
+###################################################################################################
+
+###################################################################################################
+#
+# LVL1DK OPTIONS
+#
+#     Lvl1dk.Enable
+#        Enable or disable the module
+#        Default:     1 (enabled)
+
+Lvl1dk.Enable = 1
+
+#
+#     Lvl1dk.AnnounceOnLogin
+#        Announce a message on login for this module
+#        Default:     1
+
+Lvl1dk.AnnounceOnLogin=1
+
+#
+#     Lvl1dk.OnLoginMessage
+#        Message to display on login(Only applies if AnnounceOnLogin is enabled)
+#        Default:    "This server is running a RandomEnchants Module."
+
+Lvl1dk.OnLoginMessage="This server is running a Lvl1dk Module."
