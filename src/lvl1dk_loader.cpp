@@ -1,6 +1,6 @@
 void AddLvl1dkScripts();
 
-void Add_lvl1dk_scripts()
+void Addmod_lvl1DKScripts()
 {
     AddLvl1dkScripts();
 }
