@@ -22,6 +22,6 @@ Lvl1dk.AnnounceOnLogin=1
 #
 #     Lvl1dk.OnLoginMessage
 #        Message to display on login(Only applies if AnnounceOnLogin is enabled)
-#        Default:    "This server is running a RandomEnchants Module."
+#        Default:    "This server is running a Lvl1dk Module."
 
 Lvl1dk.OnLoginMessage="This server is running a Lvl1dk Module."
