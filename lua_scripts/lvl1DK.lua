@@ -37,6 +37,18 @@ local function lvl1Dk(event, player)
         player:RemoveItem(38147, 1)
         player:RemoveItem(41751, 10)
         player:RemoveItem(38145, 4)
+
+        -- Remove all spells except blood strike
+        player:RemoveSpell(48266) -- Blood Presence
+        player:RemoveSpell(49410) -- Forceful Deflection
+        -- player:RemoveSpell(55095) -- Frost Fever
+        player:RemoveSpell(45477) -- Icy Touch
+        player:RemoveSpell(61455) -- Runic Focus
+        -- player:RemoveSpell(55078) -- Blood Plague
+        player:RemoveSpell(47541) -- Death Coil
+        -- player:RemoveSpell(50977) -- Death Gate
+        player:RemoveSpell(49576) -- Death Grip
+        player:RemoveSpell(45462) -- Plague Strike
         
         player:AddItem(6948) -- Hearhstone
 
